@@ -8,6 +8,7 @@ for DDF projects.
 ```
 .
 ├── README.md
+├── datapackage.json
 └── etl
     ├── notebooks
     ├── recipes
