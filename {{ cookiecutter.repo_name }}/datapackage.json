@@ -1,0 +1,15 @@
+{
+    "name": "{{ cookiecutter.repo_name }}",
+    "author": "{{ cookiecutter.author }}",
+    "description": "{{ cookiecutter.project_short_description }}",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "{{ cookiecutter.license }}",
+    "title": "{{ cookiecutter.project_name }}",
+    "translations": [],
+    "version": "0.0.1",
+    "resources": []
+}
