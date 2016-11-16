@@ -9,7 +9,6 @@
     "translations": [],
     "license": "{{ cookiecutter.license }}",
     "title": "{{ cookiecutter.project_name }}",
-    "translations": [],
     "version": "0.0.1",
     "resources": []
 }

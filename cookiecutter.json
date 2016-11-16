@@ -1,5 +1,7 @@
 {
     "project_name": "DDF project",
     "repo_name": "ddf--source_provider--reop_name",
-    "project_short_description": "A brand new DDF repo"
+    "project_short_description": "A brand new DDF repo",
+    "author": "Gapminder",
+    "license": ["MIT", "BSD-3", "GNU GPL v3.0", "Apache Software License 2.0"]
 }
