@@ -3,5 +3,5 @@
     "repo_name": "ddf--source_provider--reop_name",
     "project_short_description": "A brand new DDF repo",
     "author": "Gapminder",
-    "license": ["MIT", "BSD-3", "GNU GPL v3.0", "Apache Software License 2.0"]
+    "license": ["CC-BY-4.0", "MIT", "BSD-3", "GNU GPL v3.0", "Apache Software License 2.0"]
 }
