@@ -3,7 +3,7 @@
 {{ cookiecutter.project_short_description }}
 
 To learn more about DDF, please read the
-[introduction to DDF](1) and [DDFcsv data format](2).
+[introduction to DDF][1] and [DDFcsv format document][2].
 
 [1]: https://open-numbers.github.io/ddf.html
 [2]: https://docs.google.com/document/d/1aynARjsrSgOKsO1dEqboTqANRD1O9u7J_xmxy8m5jW8
