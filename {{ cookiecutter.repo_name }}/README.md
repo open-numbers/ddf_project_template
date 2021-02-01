@@ -2,7 +2,7 @@
 
 {{ cookiecutter.project_short_description }}
 
-To learn more about DDF, please read the
+To get started with DDF and learn how to use the dataset, please read the
 [introduction to DDF][1] and [DDFcsv format document][2].
 
 [1]: https://open-numbers.github.io/ddf.html
