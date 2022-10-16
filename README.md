@@ -29,5 +29,8 @@ create the project for you.
 
 Alternativly, you can install
 [cookiecutter](https://github.com/cookiecutter/cookiecutter) and run
-`cookiecutter https://github.com/Gapminder/ddf_project_template` to
-create project with this template.
+following command to create project with this template.
+
+``` shell
+$ cookiecutter https://github.com/Gapminder/ddf_project_template
+```
