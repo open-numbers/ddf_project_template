@@ -9,6 +9,7 @@ for DDF projects.
 .
 ├── README.md
 ├── datapackage.json
+├── ddf--concepts.csv
 └── etl
     ├── notebooks
     ├── recipes
@@ -26,3 +27,7 @@ install [ddf_utils](https://github.com/semio/ddf_utils), and just run `ddf new`
 in the command line prompt. The program will prompt for project informations and
 create the project for you.
 
+Alternativly, you can install
+[cookiecutter](https://github.com/cookiecutter/cookiecutter) and run
+`cookiecutter https://github.com/Gapminder/ddf_project_template` to
+create project with this template.
