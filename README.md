@@ -28,9 +28,10 @@ in the command line prompt. The program will prompt for project informations and
 create the project for you.
 
 Alternativly, you can install
-[cookiecutter](https://github.com/cookiecutter/cookiecutter) and run
-following command to create project with this template.
+[cookiecutter](https://github.com/cookiecutter/cookiecutter) (fewer
+dependencies than ddf_utils) and run following command to create
+project with this template.
 
 ``` shell
-$ cookiecutter https://github.com/Gapminder/ddf_project_template
+$ cookiecutter https://github.com/semio/ddf_project_template
 ```
