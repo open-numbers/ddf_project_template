@@ -1,16 +1,16 @@
 {
     "name": "{{ cookiecutter.repo_name }}",
-    "language": {
-        "name": "English",
-        "id": "en"
-    },
     "title": "{{ cookiecutter.project_name }}",
     "description": "{{ cookiecutter.project_short_description }}",
     "author": "{{ cookiecutter.author }}",
     "license": "{{ cookiecutter.license }}",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "created": "2025-08-28T06:19:41.175Z",
     "translations": [],
     "version": "0.0.1",
-    "created": "2022-10-02T02:59:10.856944+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -27,7 +27,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         }
     ],
