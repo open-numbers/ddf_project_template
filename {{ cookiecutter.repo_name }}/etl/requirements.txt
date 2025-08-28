@@ -1,1 +1,4 @@
-pandas<1.1
+# set your scripts' dependencies
+# example:
+polars
+requests
